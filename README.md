@@ -191,6 +191,8 @@ Forkable, extensible, and community-driven. Sorted by GitHub stars. Provider tag
 
 - **[CLAII](https://github.com/agencyswarm/CLAII)** `⭐ 3` — CLI-first AI coding agent with multi-agent orchestration, MCP toolchains, and memory-persistent refactors.
 
+- **[Borg](https://github.com/adelphidata/borg)** `⭐ 1` — Security-first personal assistant and coding agent in Rust. Built to run for weeks without babysitting. Terminal UI, desktop app, one-shot `borg ask`, read-only Plan mode, `/goal` loops that keep going until your checks pass, git worktrees, `/undo`, and ACP for editors. Sandbox on by default, a self-healing daemon, and API key rotation with provider failover. One-command import from OpenClaw and Hermes. MIT.
+
 ### OpenClaw ecosystem
 
 Projects built on, forked from, or inspired by [OpenClaw](https://github.com/openclaw/openclaw) — the open-source personal AI assistant. Sorted by GitHub stars.
