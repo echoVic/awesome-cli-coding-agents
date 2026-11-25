@@ -339,6 +339,8 @@ Tools for running and managing multiple agent sessions side-by-side. Sorted by G
 
 - **[construct](https://github.com/construct-worlds/construct)** `⭐ 3` — Terminal-native agentic development environment: fleet TUI for coding agent CLIs (Codex, Claude Code, Antigravity, Grok) with fork/merge, collaborative Program Markdown orchestration, generative widgets, agent-to-agent orchestration. Single Rust binary.
 
+- **[Agent Dock](https://github.com/kjw0716/agent-dock)** `⭐ 2` — Always-on-top Windows dock that shows whether each of your 27 coding agents (Claude Code, Codex, OpenCode, Gemini CLI, Cursor, Copilot, and more) is working, waiting for you, or done — with per-agent mascots, in-dock question answering for Claude, unread alerts, and a built-in statistics view (tokens, cost, timeline). Electron. Apache-2.0.
+
 - **[Agent CLI Menu](https://github.com/roypadina/AgentCliMenu)** `⭐ 1` — macOS TUI and menu-bar app to start or resume Claude Code and Codex sessions; frecency project launcher plus full-transcript fuzzy search across past sessions, with a working-directory confidence gate. MIT.
 
 - **[postmortemthis](https://github.com/Softeria/postmortemthis)** `⭐ 1` — Runs every coding-agent CLI you have (Claude Code, Codex, Gemini, Qwen, Vibe) in parallel and read-only over your diff, then synthesizes their reviews into one ship / no-ship verdict. A cross-model second opinion before you ship. MIT.
